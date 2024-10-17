@@ -8,9 +8,9 @@ Hacktoberfest is an annual month-long event that encourages open-source contribu
 Step 1: Fork the repository. <br>
         ➡️Go to the repository on GitHub, and click the "Fork" button at the top right. <br>
 Step 2: Clone your fork locally.  <br>
-        ➡️Use the command git clone <your-fork-url> in your terminal.
+        ➡️Use the command git clone <your-fork-url> in your terminal.  <br>
 Step 3: Add your code or make improvements.  <br>
-        ➡️Make your changes or add new features to the project.
+        ➡️Make your changes or add new features to the project.  <br>
 Step 4: Commit and push changes.  <br>
         ➡️Use; git add  <br>
                git commit -m "Your commit message"  <br>

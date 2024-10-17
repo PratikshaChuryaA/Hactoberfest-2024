@@ -25,5 +25,4 @@ Step 5: Submit a Pull Request.
 👉Documentation improvements
 
 Hacktoberfest is the perfect opportunity for beginners to embark on their open-source journey. With its welcoming community and myriad of beginner-friendly projects, it provides a fantastic entry point for those looking to make their first meaningful contributions to the world of open source software development.
-
 ### Feel free to explore, contribute, and learn!
